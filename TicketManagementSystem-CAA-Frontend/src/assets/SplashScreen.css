@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.container1 {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-color: #0069a2;
+  z-index: 10; /* Ensure it's above .heading */
+  animation: moveWrapper 1.3s ease-in-out forwards;
+}
+
+.heading {
+  background-image: url("./images/splash.png");
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 5; /* Ensure it's below .container */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #115587;
+  color: white;
+  cursor: pointer;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+  background-color: #005b8d;
+}
+
+.buttons {
+  position: absolute;
+  bottom: 60px;
+  display: flex;
+  gap: 10px;
+}
+
+.login-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #115587;
+  color: white;
+  cursor: pointer;
+}
+
+.signup-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #caa202;
+  color: white;
+  cursor: pointer;
+}
+
+.login-btn:hover,
+.signup-btn:hover {
+  background-color: #005b8d;
+}
+
+.image {
+  background-image: url("./images/airplane.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0; /* Ensure it's below .container */
+  animation: moveAcross 5s ease-in-out forwards;
+}
+
+@keyframes moveAcross {
+  0% {
+    transform: translateX(-60%);
+  }
+  100% {
+    transform: translateX(200%);
+  }
+}
+
+@keyframes moveWrapper {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(200%);
+  }
+}
