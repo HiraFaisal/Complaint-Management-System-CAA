@@ -47,3 +47,43 @@ This system improves **operational efficiency, user satisfaction, and decision-m
 - Secure authentication & validation  
 - Notification system for timely updates  
 
+---
+
+## 🖼️ User Interface Screenshots
+
+### 👤 User Interface
+| Feature | Screenshot |
+|---------|------------|
+| Splash Screen | ![Splash Screen](./screenshots/splash-screen.jpg) |
+| Login | ![Login](./screenshots/login.jpg) |
+| Sign Up | ![Sign Up](./screenshots/sign-up.jpg) |
+| Dashboard | ![User Dashboard](./screenshots/user-dashboard.jpg) |
+| Add New Complaint | ![User Add Complaint](./screenshots/user-add-new-complaint.jpg) |
+| Complaints | ![User Complaints](./screenshots/user-complaints.jpg) |
+| Ticket Details | ![User Ticket Details](./screenshots/user-ticket-details.jpg) |
+| My Profile | ![User Profile](./screenshots/user-my-profile.jpg) |
+| Contact Us | ![User Contact Us](./screenshots/user-contact-us.jpg) |
+
+---
+
+### 🛠️ Sub-Admin Interface
+| Feature | Screenshot |
+|---------|------------|
+| Dashboard | ![Sub-Admin Dashboard](./screenshots/sub-admin-dashboard.jpg) |
+| All Complaints | ![Sub-Admin Complaints](./screenshots/sub-admin-all-complaints.jpg) |
+
+---
+
+### 🏢 Super-Admin Interface
+| Feature | Screenshot |
+|---------|------------|
+| Dashboard | ![Super-Admin Dashboard](./screenshots/super-admin-dashboard.jpg) |
+| All Complaints | ![Super-Admin All Complaints](./screenshots/super-admin-all-complaints.jpg) |
+| Ticket Details | ![Super-Admin Ticket Details](./screenshots/super-admin-ticket-details.jpg) |
+
+---
+
+## 🗂️ ER Diagram
+![ER Diagram](./screenshots/er-diagram.jpg)
+
+---
