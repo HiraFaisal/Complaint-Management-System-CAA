@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TicketManagementSystem-CAA.props" />
+</Project>

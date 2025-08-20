@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\TicketManagementSystem-CAA-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C52EF5AC-85E3-4E53-8C0A-7D833EF7C8E5}|..\\UnitTest\\UnitTest.csproj|c:\\users\\lenovo\\desktop\\cms-scproject\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03F7849-618A-4B13-90DF-7F71A0ACAE8E}|TicketManagementSystem-CAA.csproj|c:\\users\\lenovo\\desktop\\cms-scproject\\ticketmanagementsystem-caa-backend\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03F7849-618A-4B13-90DF-7F71A0ACAE8E}|TicketManagementSystem-CAA.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52EF5AC-85E3-4E53-8C0A-7D833EF7C8E5}|..\\UnitTest\\UnitTest.csproj|c:\\users\\lenovo\\desktop\\cms-scproject\\unittest\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\TicketManagementSystem-CAA-Backend\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\TicketManagementSystem-CAA-Backend\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:24:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwH4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:51:14.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\UnitTest\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\UnitTest2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\CMS-SCproject\\UnitTest\\UnitTest2.cs",
+              "RelativeToolTip": "..\\UnitTest\\UnitTest2.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwD8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:48:33.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

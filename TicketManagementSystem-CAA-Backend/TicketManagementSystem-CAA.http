@@ -1,0 +1,6 @@
+@TicketManagementSystem_CAA_HostAddress = http://localhost:5044
+
+GET {{TicketManagementSystem_CAA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
